@@ -16,7 +16,7 @@ Ferramentas utilizadas:
 
 - Oracle VM Virtual Box
 - Thonny IDE
-- Analytics ThingSpeak, através de API;
+- Analytics ThingSpeak, através de API - https://thingspeak.com/channels/2281574;
 - MicroPython (implementação da linguagem Python 3 otimizada para operar em microcontrolador)
 - Wireshark (para análise de conectividade TCP/IP)
 
