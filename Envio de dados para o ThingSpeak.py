@@ -12,7 +12,7 @@ def conecta(ssid, senha):
 
 import urequests
 print("Conectando [...]")
-station = conecta("IPOJUCA","patinhas123")
+station = conecta("NOME_REDE","SENHA_REDE")
 if not station.isconnected():
     print("Falha na conexão. Não conectado.")
 else:
